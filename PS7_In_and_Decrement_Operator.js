@@ -30,7 +30,7 @@ console.log(newNum);
 
 
 console.log("Decrement Prefix : ");
-var num2 = 5;
+var num2 = 10;
 // var newNum2 = --num2 - 2;
 var newNum2 = --num2;
 console.log(num2);
