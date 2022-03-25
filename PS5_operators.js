@@ -7,3 +7,4 @@
 var x = 5;
 var y = 5;
 console.log("is both the x and y are equal or not" + x == y);
+console.log(x == y);
