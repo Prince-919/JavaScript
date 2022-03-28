@@ -1,5 +1,7 @@
 
 /***************3️⃣ Var ***********/
+// var ==> Function scope 
+// let and const ==> Block Scope
 
 function biadata()
 {
