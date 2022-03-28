@@ -9,4 +9,4 @@
 // Traversal in Array
 
 var myFriends = ['Prince','Rahul','Ramesh','Karan'];
-console.log(myFriends(1));
+console.log(myFriends[1]);
