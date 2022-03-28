@@ -4,6 +4,8 @@
 //     console.log(myFriends[i]);
 // }
 
+// For In Loop
+
 var myFriends = ['prince','rahul','karan','ram'];
 for(let element in myFriends)
 {
