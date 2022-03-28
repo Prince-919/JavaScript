@@ -8,7 +8,7 @@
 
 // Traversal in Array
 
-var myFriends = ['Prince','Rahul','Ramesh','Karan'];
+var myFriends = ['Prince','Rahul','Ramesh','Karan','Prince','Rahul','Ramesh','Karan Sharma'];
 console.log(myFriends[myFriends.length - 1]);
 // console.log(myFriends[1]);
 // console.log(myFriends[2]);
